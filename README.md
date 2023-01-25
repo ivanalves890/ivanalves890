@@ -6,7 +6,8 @@
 
 -Currently playing with html, css, javascript <!--(soon I'll be diving into deeper waters)-->
 
--As electronics engineer, I've played this role a little (~10 years) and have some experience
+-Experience as electronics engineer
+<!-- -As electronics engineer, I've played this role a little (~10 years) and have some experience -->
 
 -Played a little with Android and iOS development (kotlin, java, swift)
 
