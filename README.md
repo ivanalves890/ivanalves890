@@ -9,7 +9,7 @@
 -Experience as electronics engineer
 <!-- -As electronics engineer, I've played this role a little (~10 years) and have some experience -->
 
--Played a little with Android and iOS development (kotlin, java, swift)
+-Played a little with Android and iOS development (kotlin, java, swift, flutter)
 
 -I have some cool projects with Arduino and I'll share with community as soon as possible
 <!-- How to reach me: ivan.alves22@hotmail.com-->
