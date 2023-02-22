@@ -1,6 +1,6 @@
 <h3>Hello there, I’m Ivan Alves 😎</h3>
 
--Going-to-be dev
+-JS developer
 
 -Enthusiastic of everything about technology and coding
 
@@ -9,7 +9,7 @@
 -Experience as electronics engineer
 <!-- -As electronics engineer, I've played this role a little (~10 years) and have some experience -->
 
--Played a little with Android and iOS development (kotlin, java, swift, flutter)
+-Played a little with Android and iOS development (Kotlin, Java, Swift, Flutter)
 
 -I have some cool projects with Arduino and I'll share with community as soon as possible
 <!-- How to reach me: ivan.alves22@hotmail.com-->
