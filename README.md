@@ -1,6 +1,6 @@
 <h3>Hello there, I’m Ivan Alves 😎</h3>
 
--JS developer
+-JS developer (currently studying as much as possible)
 
 -Enthusiastic of everything about technology and coding
 
