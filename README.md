@@ -4,7 +4,7 @@
 
 -Enthusiastic of everything about technology and coding
 
--Currently playing with html, css, javascript <!--(soon I'll be diving into deeper waters)-->
+-Currently playing with HTML, CSS, JavaScript <!--(soon I'll be diving into deeper waters)-->
 
 -Experience as electronics engineer
 <!-- -As electronics engineer, I've played this role a little (~10 years) and have some experience -->
